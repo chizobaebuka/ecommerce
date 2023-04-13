@@ -307,6 +307,42 @@ footer .input-group-text{
 .wishlist-icon{
   top: 2%;
   right: 15px;
-
 }
 /* Product Card End */
+
+/* Special Product Start */
+.special-product-card{
+  padding: 20px 10px;
+  border-radius: 10px;
+  background-color: white;
+}
+/* Special Product End */
+
+/* Famous Card Start */
+.famous-card .famous-content{
+  top: 10%;
+  left: 10%;
+}
+.famous-card img{
+  border-radius: 10px;
+}
+.famous-content h5{
+  font-size: 13px;
+  line-height: 20px;
+  font-weight: 400px;
+  color: white;
+  margin-bottom: 7px;
+}
+.famous-content h6{
+  font-size: 24px;
+  line-height: 38px;
+  font-weight: 500;
+  color: white;
+}
+.famous-content p{
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 100;
+  color: white;
+}
+/* Famous Card End */

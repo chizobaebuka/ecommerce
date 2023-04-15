@@ -489,3 +489,36 @@ footer .input-group-text{
   color: var(--color-777777);
 }
 /* Contact Us End */
+
+/* Compare Products Page Start */
+.compare-product-card{
+  padding: 20px 15px;
+  background-color: white;
+  border-radius: 10px;
+}
+.compare-product-card .cross{
+  top: 10px;
+  right: 15%;
+  width: 25px;
+  cursor: pointer;
+  padding: 3px;
+}
+.compare-product-details h5.title{
+  font-size: 15px;
+  line-height: 22px;
+  font-weight: 500;
+  color: var(--color-1c1c1b);
+}
+.compare-product-details h6.title{
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+}
+.compare-product-card .product-detail{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0px;
+  border-top: 3px solid rgba(0, 0, 0, 0.1);
+}
+/* Compare Products Page End */

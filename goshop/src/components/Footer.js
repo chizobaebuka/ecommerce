@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { BsLinkedin, BsGithub, BsYoutube, BsTwitter, BsFacebook } from 'react-icons/bs'
+import { BsLinkedin, BsGithub, BsYoutube, BsTwitter, BsFacebook } from 'react-icons/bs';
 
 const Footer = () => {
   return (

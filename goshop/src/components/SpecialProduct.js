@@ -42,7 +42,7 @@ const SpecialProduct = () => {
                                 <div className="progress-bar" role="progressbar" style={{width: "25%"}} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                         </div>
-                        <Link className='button'>Add to Cart</Link>
+                        <Link to="/cart" className='button'>Add to Cart</Link>
                     </div>
                 </div>
             </div>

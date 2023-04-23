@@ -184,7 +184,7 @@ const OurStore = () => {
                   </p>
                   <select
                     name=""
-                    defaultValue={"manula"}
+                    defaultValue={"manual"}
                     className="form-control form-select"
                     id=""
                   >
